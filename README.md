@@ -7,3 +7,6 @@ python mysysteminfo.py
 or 
 
 python3 mysysteminfo.py
+
+
+run ./getusers.py --help  
