@@ -21,3 +21,8 @@ When u run this script with python2 will get error.So either in the file make py
 
 reference: https://www.thepythoncode.com/article/get-hardware-system-information-python
 #3123
+
+
+ebs-snap-profile.py
+-------------------
+This script will create ebs snapshot of the given volume & along with mentioned tags 
